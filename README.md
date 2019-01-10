@@ -19,7 +19,7 @@ Specifically, the application should:
  * Bonus: Try to differentiate players between teams/referees.
 
 ## Given data
-* **Video file** videos/sample1.mp4
+* **Video file** Download: http://vod-cdn.aws.automatic.tv/sample1.mp4
 * **Projection matrix** translates points from field (in meters) to pixels in a fullHD image like the input video file. See _Coordinate systems_ for more details.
 ``` 
 [2407.94, 890.965, -101.618, 74068.1]
