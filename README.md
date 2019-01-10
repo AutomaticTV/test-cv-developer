@@ -19,7 +19,7 @@ Specifically, the application should:
 
 ## Given data
 * **Video file** videos/sample1.mp4
-* **Projection matrix** translates points from field (in meters) to pixels in a fullHD image like the input video file. See __Coordinate systems__
+* **Projection matrix** translates points from field (in meters) to pixels in a fullHD image like the input video file. See _Coordinate systems_ for more details.
 ``` 
 [2407.94, 890.965, -101.618, 74068.1]
 [25.132, -335.994, -2359.5, 35865.7]
