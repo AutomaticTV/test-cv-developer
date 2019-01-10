@@ -25,7 +25,7 @@ Specifically, the application should:
 [0.0265481, 0.989646, -0.141051, 80.7746]
 ```
 * **Coordinate systems** In the field (0, 0) is the center of the field. In the image the (0, 0) is the top-left corner.
-![alt text](https://github.com/AutomaticTV/test-cv-developer/blob/master/images/fieldReferencePoint.png "Coordinate systems")
+![alt text](https://github.com/AutomaticTV/test-cv-developer/blob/master/images/coordinateSystems.png "Coordinate systems")
 
 ## Examples
 ![alt text](https://github.com/AutomaticTV/test-cv-developer/blob/master/images/exampleFrame234.PNG "Frame 234")
