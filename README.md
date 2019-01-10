@@ -16,6 +16,7 @@ Specifically, the application should:
  Frame#101 (x1, y1) (x2, y2) (x3, y3) // add as many as identified players in frame 101
  ```
  First frame in the video is number 0.
+ * Bonus: Try to differentiate players between teams/referees.
 
 ## Given data
 * **Video file** videos/sample1.mp4
