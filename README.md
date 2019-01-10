@@ -18,12 +18,14 @@ Specifically, the application should:
 
 ## Given data
 * **Video file** videos/sample1.mp4
-* **Projection matrix** translates points from field (in meters) to pixels in a fullHD image like the input video file.
+* **Projection matrix** translates points from field (in meters) to pixels in a fullHD image like the input video file. See __Coordinate systems__
 ``` 
 [2407.94, 890.965, -101.618, 74068.1]
 [25.132, -335.994, -2359.5, 35865.7]
 [0.0265481, 0.989646, -0.141051, 80.7746]
 ```
+* **Coordinate systems** In the field (0, 0) is the center of the field. In the image the (0, 0) is the top-left corner.
+![alt text](https://github.com/AutomaticTV/test-cv-developer/blob/master/images/fieldReferencePoint.png "Coordinate systems")
 
 ## Examples
 ![alt text](https://github.com/AutomaticTV/test-cv-developer/blob/master/images/exampleFrame234.PNG "Frame 234")
