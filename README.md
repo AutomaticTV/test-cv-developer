@@ -40,4 +40,5 @@ Frame#524 (1.242287, -28.034293) (-11.898251, -20.872074) (-2.800320, -18.416169
 
 ## Final comments and hints
 * The first frames will be used to initialize the Background Substraction algorithm. Do not lose time trying to extract players from these frames.
+* The field is 105m * 68m.
 * Upload solution code in a private repository and send us the link. We will value both the solution and quality of the code made.
