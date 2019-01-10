@@ -15,6 +15,7 @@ Specifically, the application should:
  Frame#100 (x1, y1) (x2, y2) (x3, y3) // add as many as identified players in frame 100
  Frame#101 (x1, y1) (x2, y2) (x3, y3) // add as many as identified players in frame 101
  ```
+ First frame in the video is number 0.
 
 ## Given data
 * **Video file** videos/sample1.mp4
@@ -37,4 +38,6 @@ Frame#234 (5.026569, -28.868330) (-7.621775, -28.008006) (0.192799, -15.723140) 
 Frame#524 (1.242287, -28.034293) (-11.898251, -20.872074) (-2.800320, -18.416169) (2.510203, -17.100453) (-9.081305, -13.058719) (-23.740287, -9.526338) (-22.707648, -7.517313) (-10.247547, -6.656217) (-6.774091, -7.132234) (-8.271173, 5.636226) (-26.540825, 7.438519) (2.303503, -0.579134) (-6.817145, 9.132527) (-32.162833, 9.080199) (-11.222285, 10.602587) (-15.764693, 17.953701) (2.086494, 21.006964) (-0.992776, 23.619043) (-19.734702, 24.271418) 
 ```
 
-
+## Final comments and hints
+* The first frames will be used to initialize the Background Substraction algorithm. Do not lose time trying to extract players from these frames.
+* Upload solution code in a private repository and send us the link. We will value both the solution and quality of the code made.
